@@ -1,0 +1,3 @@
+rootProject.name = "HeartBest"
+include ':app'
+include ':opencv'

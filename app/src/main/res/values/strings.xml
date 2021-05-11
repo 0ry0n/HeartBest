@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeartBest</string>
+    <string name="button_start_face">Start Face</string>
+    <string name="button_start_finger">Start Finger</string>
+</resources>
